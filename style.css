@@ -114,3 +114,10 @@ ul li span:hover{
     }
 }
 
+@media (max-width : 400px)
+{
+    .row button{
+        padding: 16px 14px;
+    }
+}
+
